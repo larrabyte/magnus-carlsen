@@ -1,5 +1,0 @@
-- play lowest card
-- play lowest value combo
-
-- play highest number of cards possible at start
-- more tips idk probs tmrw
