@@ -1,3 +1,6 @@
+# Things I don't want to be tracked.
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 .vscode/
